@@ -1,0 +1,19 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Data files
+/data/processed/*
+!data/processed/.gitkeep
+
+# Outputs
+/outputs/*
+!outputs/figures/.gitkeep
+
+# Environment files
+.env
+*.env
+
+# OS junk
+.DS_Store
